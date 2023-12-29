@@ -1,2 +1,2 @@
-# Bisual Charts Dashboards
+# Visual Charts Dashboards
 Working with multiple datasets
