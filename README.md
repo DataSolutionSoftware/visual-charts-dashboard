@@ -1,36 +1,11 @@
-# Visual Charts Dashboards
-Working with multiple datasets. Our specialisation includes but not limited to:
-
-Digital Transformation
-
-Integration
-
-Migration
-
-Redesign
+# Visual Charts and  Dashboards
+This application demonstrates the impact of Visualisation using multiple  datasets in reporting through:
 
 Insights
 
 Data Mining
 
-Visualisation & Reporting
-
-CRM Ingestions
-
-E-Commerce
-
 Spreadsheets Aggregation & Interpretations 
 
-Datasets & Data Lakes
 
-ORM
 
-Cloud
-
-Cybersecurity
-
-Data Science
-
-AI
-
-Apps & Platforms
